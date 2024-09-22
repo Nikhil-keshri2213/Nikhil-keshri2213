@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikhil-keshri2213&icon=4&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NikhilKeshri2213&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
