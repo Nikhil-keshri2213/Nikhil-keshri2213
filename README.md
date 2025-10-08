@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursing Btech<br>👯 I’m looking to collaborate on Data science and Java.<br>🤝 I’m looking for help with Data Scientist<br>🌱 I’m currently learning framworks in Java<br>💬 Ask me about Data Science and Java Development.<br>⚡ Fun fact is I am too much curious.
+🏢 I’m currently working as a Associate Developer at Tech Mahindra. <br>📚Completed B.Tech in Computer Science and Engineering. <br>👯 I’m looking to collaborate on Ai-ML and Java Developments.<br>🤝 I’m looking for help with Full Stack Expertis. <br>🌱 I’m currently working on framworks in Java<br>💬 Ask me about Machine Learning and Java Development.<br>⚡ Fun fact is I am too much curious.
 
 
 ## 🌐 Socials:
